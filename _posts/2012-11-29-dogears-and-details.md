@@ -1,14 +1,14 @@
 ---
 layout: post
-title: First Post
+title: Dogears 
 ---
 
 {{ page.title }}
 ================
 
-Title page
+or, How I want to Surf the Web
 -----------------------------------------------------
 
-**it's the right thing to do**
+
 
 
